@@ -1,0 +1,4 @@
+/root/2023-lab1-myftp-junglethorn/build/CMakeFiles/ftp_server.dir
+/root/2023-lab1-myftp-junglethorn/build/CMakeFiles/ftp_client.dir
+/root/2023-lab1-myftp-junglethorn/build/CMakeFiles/edit_cache.dir
+/root/2023-lab1-myftp-junglethorn/build/CMakeFiles/rebuild_cache.dir

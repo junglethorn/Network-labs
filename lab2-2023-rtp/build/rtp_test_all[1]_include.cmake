@@ -1,0 +1,5 @@
+if(EXISTS "/root/2023-lab2-rtp-junglethorn/build/rtp_test_all[1]_tests.cmake")
+  include("/root/2023-lab2-rtp-junglethorn/build/rtp_test_all[1]_tests.cmake")
+else()
+  add_test(rtp_test_all_NOT_BUILT rtp_test_all_NOT_BUILT)
+endif()

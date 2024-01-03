@@ -1,0 +1,6385 @@
+Skip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More resultsSkip to main contentTurn off continuous scrolling
+Accessibility help
+Accessibility feedback
+Google
+shell 查看文件大小
+
+图片
+视频
+购物
+新闻
+地图
+图书
+航班
+财经
+All filters
+Tools
+SafeSearch
+About 6,480,000 results (0.30 seconds) 
+
+1Linux查看文件大小5个常用命令
+
+博客园
+https://www.cnblogs.com › gucb
+Aug 1, 2019 — 本文主要介绍Linux系统中，用于查看文件大小的命令。 Linux 查看文件大小5个常用命令. 2. 使用stat命令查看. stat命令一般用于查看文件的状态信息。stat ...
+
+2如何显示文件大小
+
+Oracle Help Center
+https://docs.oracle.com › sysresdisk...
+转到要检查的文件所在的目录。 · 显示文件的大小。 $ ls [ -lh ] [ -s ]. -l. 以长格式显示文件和目录的列表，以字节为单位显示大小。（请参见下面的示例。） -h. 文件或 ...
+
+3Linux查看文件大小的几种方法原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Feb 1, 2017 — linux 查看文件夹大小及文件大小. 1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为 ...
+
+4linux查看文件大小的各种操作命令
+
+baiyangz1.com
+https://www.baiyangz1.com › ...
+1. 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2. 通过命令du -h – ...
+
+5shell 查看文件夹/文件大小、目录/文件数量原创
+
+CSDN博客
+https://blog.csdn.net › article › details
+Aug 29, 2020 — 目录1. 查看文件夹/文件大小llll -hdudu -hdu -h --max-depth=1du -sh *du -sh * |sort -rh |head2. 查看目录/文件数量统计当前文件夹下目录、文件的 ...
+
+6linux怎么查看文件夹多大
+
+睿象云
+https://www.aiops.com › news › post
+1、最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。 · 2、通过命令du -h – ...
+
+7查看文件、目录、文件系统大小 - Linux Guide
+
+Read the Docs
+https://zj-linux-guide.readthedocs.io › ...
+查看文件、目录、文件系统大小¶. 经常需要判断文件、文件夹和磁盘空间的大小，总结一下. 常用命令包括：. ls ：列出目录内容; df ：报告文件系统磁盘空间使用情况 ...
+
+8linux查看文件大小，并以KB、MB等人类可读的方式显示
+
+coderbbb.com
+https://www.coderbbb.com › articles
+Mar 6, 2023 — 命令. 要查看Linux系统中文件大小并以M为单位显示，可以使用以下命令： ls -lh filename. 其中，选项 -l 表示使用长格式输出， -h 表示以人类可读的 ...
+
+9du ﻿查看文件夹大小— Linux latest 文档
+
+Read the Docs
+https://gnu-linux.readthedocs.io › C...
+在Linux 中使用ls -l 命令列出的目录内容中，文件夹的大小仅显示4KB，这是用来存储文件夹的元数据的大小。 使用du 命令可以查看目录或文件的大小。 默认使用递归方式总结磁盘使用情况，以获取目录及其子目录的大小。
+
+10Linux怎么查看一个文件夹的大小
+
+51CTO博客
+https://blog.51cto.com › ...
+Aug 15, 2021 — 最简单的查看方法可以使用ls -ll、ls-lh命令进行查看，当使用ls -ll，会显示成字节大小，而ls- lh会以KB、MB等为单位进行显示，这样比较直观一些。
+People also ask
+Linux如何查看一个文件大小？
+如何查看文件夹大小？
+Linux查看文件大小 多少M？
+Ubuntu如何查看文件大小？
+Feedback
+More results
